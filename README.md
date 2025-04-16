@@ -9,7 +9,7 @@ The challenge uses two primary datasets:
 
 2. **EM-DAT Disaster Database** – Contains data on the frequency and impact of global disasters from 2000 to 2024.
 
-##Project Objectives
+## Project Objectives
 1. **Risk Validation & Correlation Analysis:**
   Identify top high-risk countries based on INFORM Risk scores.
   Analyze disaster counts for top countries and correlate disaster frequency and affected population with INFORM risk scores.
@@ -40,7 +40,7 @@ The challenge uses two primary datasets:
   Propose investments or policy changes to reduce disaster vulnerability in high-risk areas with low infrastructure quality.
   Assess countries' disaster mitigation strategies and identify successful policies that reduce vulnerability.
 
-##Key Findings
+## Key Findings
 The **top 5 high-risk countries** were identified based on INFORM Risk scores, with disaster counts analyzed for the top 3 countries from the EM-DAT database.
 
 A **heatmap** was generated to show the correlation between INFORM Risk scores and disaster frequency/affected population.
